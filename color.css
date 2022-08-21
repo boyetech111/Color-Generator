@@ -1,0 +1,7 @@
+.color-items{
+    display: flex;
+    /* height: 100%vh; */
+    justify-content: center;
+    align-self: center;
+    margin-top: 320px;
+}
